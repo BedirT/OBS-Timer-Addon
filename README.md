@@ -25,7 +25,7 @@ This is an OBS Studio add-on that adds a customizable timer to your stream or re
 
 ### Prerequisites
 
-- Python 3.6 or higher installed on your system.
+- Python 3.6 installed on your system.
 - OBS Studio 26.0 or higher installed on your system.
 
 ### Steps
