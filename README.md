@@ -1,12 +1,13 @@
-# OBS Timer Add-on
+<h1 align="center">OBS Timer Add-on</h1>
 
-[![Python](https://img.shields.io/badge/python-3.6%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![OBS](https://img.shields.io/badge/OBS-26.0%2B-green?logo=obs-studio&logoColor=white)](https://obsproject.com/)
-[![License](https://img.shields.io/badge/license-MIT-red?logo=open-source-initiative&logoColor=white)](LICENSE)
-
+<p align="center">
+<img src="https://img.shields.io/badge/python-3.6%2B-blue?logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/OBS-26.0%2B-green?logo=obs-studio&logoColor=white">
+<img src="https://img.shields.io/badge/license-MIT-red?logo=open-source-initiative&logoColor=white">
+</p>
 <!-- Make the image corners rounded -->
 <p align="center">
-    <img src="ss.png" width=300px style="border-radius: 10px;">
+    <img src="ss.png" width=300px>
 </p>
 
 This is an OBS Studio add-on that adds a customizable timer to your stream or recording. It is built using Python and can be easily integrated into OBS Studio.
