@@ -12,7 +12,7 @@
 
 This is an OBS Studio add-on that adds a customizable timer to your stream or recording. It is built using Python and can be easily integrated into OBS Studio.
 
-**Note:** This script requires Python 3.6 or higher to work properly.
+**Note:** This script requires Python 3.6 to work properly. Higher or lower versions might not work, -OBS related issue-
 
 ## Features
 
